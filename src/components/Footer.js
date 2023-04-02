@@ -51,18 +51,17 @@ const Footer = () => {
     >
       <div style={{ margin: "auto" }}>
         <Link to="/">Home</Link> {" | "}
-        {checkScreenWidthMobile() ? (
+        {/* {checkScreenWidthMobile() ? (
           <Link to="/contact">Contact</Link>
         ) : (
           desktopButton
-        )}
-        {" | "}
+        )} */}
         <a
-          href="https://www.github.com/Kielx"
+          href="https://drive.google.com/file/d/14lO5wN2mxjLhm0L_vpLedg6SmdDJ2OQJ/view"
           target="_blank"
           rel="noopener noreferrer"
         >
-          GitHub
+          RESUME
         </a>
       </div>
       <span
@@ -73,8 +72,7 @@ const Footer = () => {
           paddingBottom: "10px",
         }}
       >
-        © 2021-{new Date().getFullYear()} Krzysztof Pantak {" | "} Source code
-        distributed under MIT License
+        © {new Date().getFullYear()} Kartik Mehta
       </span>
     </footer>
   )

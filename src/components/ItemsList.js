@@ -170,7 +170,7 @@ export default function ItemsList() {
           width: "70%",
         }}
       >
-        {`lrwxr-xr-x 1 kielx admin ${item.node.frontmatter.added} ${item.node.frontmatter.slug} -> `}
+        {`lrwxr-xr-x 1 mehta admin ${item.node.frontmatter.added} ${item.node.frontmatter.slug} -> `}
         <a href={item.node.frontmatter.popupGithubLink}>
           {item.node.frontmatter.popupGithubLink}
         </a>
@@ -195,7 +195,7 @@ export default function ItemsList() {
 
   const contactItem = (
     <li className="infoItem">
-      <button
+      {/* <button
         className="popupWindowLinkButton"
         style={{ cursor: "pointer" }}
         onClick={() => {
@@ -227,7 +227,7 @@ export default function ItemsList() {
           📧
         </span>{" "}
         /Contact
-      </button>
+      </button> */}
     </li>
   )
 
@@ -244,7 +244,7 @@ export default function ItemsList() {
     return (
       <>
         <li>→ Info:</li> {infoMobile}{" "}
-        <li className="infoItem">
+        {/* <li className="infoItem">
           <Link
             className="popupWindowLinkButton"
             style={{ cursor: "pointer" }}
@@ -255,7 +255,7 @@ export default function ItemsList() {
             </span>{" "}
             /Contact
           </Link>
-        </li>{" "}
+        </li>{" "} */}
         <li>→ Projects:</li>
         {projectsMobile} <li className="miniProject">→ Mini-Projects:</li>
       </>

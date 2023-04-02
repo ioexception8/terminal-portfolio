@@ -1,9 +1,9 @@
 {
   "name": "kielx-portfolio",
   "private": true,
-  "description": "Krzysztof Pantak software developer portfolio",
+  "description": "Kartik Mehta software developer portfolio",
   "version": "0.1.0",
-  "author": "Krzysztof Pantak <kielx.dev@gmail.com>",
+  "author": "Kartik Mehta",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-brands-svg-icons": "^5.15.3",
