@@ -4,7 +4,7 @@ video: "false"
 listName: "👨‍💻 /About"
 title: "About me"
 popupImageSrc: "kartik.jpeg"
-popupImageAlt: "Oiginal photo of myself"
+popupImageAlt: "Original photo of myself"
 popupGithubLink: "https://github.com/kartikmehta8"
 techIcons:
   [
@@ -36,7 +36,7 @@ techIcons:
 
 ## Kartik Mehta
 
-Software Developer based in India 🇮🇳.<br>
-IT Junior at the KIET Group of Institutions, Ghaziabad.<br>
+Software Engineer based in India 🇮🇳.<br>
+IT Senior at the KIET Group of Institutions, Ghaziabad.<br>
 Passionate about Frontend, Backend, Cloud Technologies, and everything tech-related.<br>
 Also a team player & optimist.
