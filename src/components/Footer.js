@@ -57,11 +57,11 @@ const Footer = () => {
           desktopButton
         )} */}
         <a
-          href="https://drive.google.com/file/d/14lO5wN2mxjLhm0L_vpLedg6SmdDJ2OQJ/view"
+          href="https://drive.google.com/file/d/1GhxGeYpxg90yziphoqfRYjUfKdZj5eJq/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
         >
-          RESUME
+          Resume
         </a>
       </div>
       <span
