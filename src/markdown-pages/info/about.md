@@ -2,7 +2,7 @@
 slug: "/about"
 video: "false"
 listName: "👨‍💻 /About"
-title: "About me"
+title: "About Me"
 popupImageSrc: "kartik.jpeg"
 popupImageAlt: "Original photo of myself"
 popupGithubLink: "https://github.com/kartikmehta8"
@@ -39,4 +39,5 @@ techIcons:
 Software Engineer based in India 🇮🇳.<br>
 IT Senior at the KIET Group of Institutions, Ghaziabad.<br>
 Passionate about Frontend, Backend, Cloud Technologies, and everything tech-related.<br>
-Also a team player & optimist.
+You can find me on [Hashnode](https://blog.kartikmehta.xyz) writing blogs or on [Twitter](https://twitter.com/kartik_mehta8) making friends.<br>
+A team player & optimist.<br>

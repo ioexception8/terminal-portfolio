@@ -50,7 +50,7 @@ const Footer = () => {
       style={{ display: "flex", flexDirection: "column", margin: "auto" }}
     >
       <div style={{ margin: "auto" }}>
-        <Link to="/">Home</Link> {" | "}
+        <Link to="/">home</Link> {" | "}
         {/* {checkScreenWidthMobile() ? (
           <Link to="/contact">Contact</Link>
         ) : (
@@ -61,7 +61,15 @@ const Footer = () => {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Resume
+          resume
+        </a>{" "}
+        {" | "}
+        <a
+          href="https://www.linkedin.com/in/kartikmehta17"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          linkedin
         </a>
       </div>
       <span
