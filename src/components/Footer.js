@@ -57,7 +57,7 @@ const Footer = () => {
           desktopButton
         )} */}
         <a
-          href="https://drive.google.com/drive/u/0/folders/1aGNpxupxK0jw47-tu1qjBotrAnSDn2ew"
+          href="https://drive.google.com/file/d/1OrgwHFvAZGHvldEvvGmBk_ZaVb-N8NKK/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
         >
